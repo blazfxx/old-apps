@@ -2,6 +2,9 @@
 These are my old apps I built that won't be recieving updates (they migth if they get used)
 
 
+Get them at:
+https://github.com/blazfxx/old-apps/releases
+
 # ZapRequest
 Send GET and POST requests to an endpoint/API
 
