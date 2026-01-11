@@ -30,7 +30,7 @@ Takes a screenshot of your screen periodically, and lets you search past events
 
 
 
-# IAMGES - AmbientFocus
+# IMAGES - AmbientFocus
 
 <img width="396" height="632" alt="image" src="https://github.com/user-attachments/assets/d37bdf74-981a-496a-95b2-63a3787a1737" />
 
